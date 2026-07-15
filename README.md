@@ -14,7 +14,7 @@
 - 💻 Software Engineer building practical, production-ready applications.
 - 🔭 Currently working on scalable backend systems and AI-integrated platforms.
 - 🌱 Expanding my expertise in **System Design**, **Clean Architecture**, and preparing for **AWS Cloud** infrastructure roles.
-- 📫 Reach me at: **[apni-email-yahan-likhein@gmail.com]**
+- 📫 Reach me at: **[ahmadshahzad0701@gmail.com]**
 
 ---
 
@@ -22,7 +22,7 @@
 
 Here are some of the complex systems I have architected and developed:
 
-* 🧠 **[Quizora](link-to-your-repo):** An AI-powered quiz generation and evaluation platform. Built to handle complex API gateways and automated evaluation models.
+* 🧠 **[Quizora](https://quizorafrontend.vercel.app/):** An AI-powered quiz generation and evaluation platform. Built to handle complex API gateways and automated evaluation models.
 * 🏥 **[SilentScribe AI](link-to-your-repo):** An ambient intelligence system designed for automated clinical documentation. 
 * 🛠️ **[Project 3 Name](link-to-your-repo):** Add a 1-liner description of another strong full-stack project here.
 
